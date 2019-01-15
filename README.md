@@ -1,6 +1,8 @@
 # TicTacToe
-Simple TicTacToe with Q-Learner player.
+Simple TicTacToe game developed to learn Reinforcement Learning using Q-Learning. 
 
-This project was to understand Q-Learning algorithm. 
+The AI is basic and all was handmade, so obviously the performance is not great. 
 
-The Artifical Intelligence class is in ``QLearner``. The AI is self-trained.
+# TODO 
+- [ ] Improve AI performance overall
+- [ ] Support multiple policies (right now, we're using only epsilon-greedy)
